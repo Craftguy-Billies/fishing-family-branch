@@ -1,0 +1,12 @@
+@charset "utf-8";
+.display-2 {
+    font-family: "華康新綜藝體W9(P)";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: normal;
+    color: #000000;
+    background-color: #F5FF00;
+    width: auto;
+    border: thick solid #000000;
+}
