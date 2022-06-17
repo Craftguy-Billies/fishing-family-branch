@@ -10,3 +10,17 @@
     width: auto;
     border: thick solid #000000;
 }
+.display-3 {
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    background-color: #00FF81;
+    border: thick double #06002A;
+}
+.display-4 {
+    font-family: "華康平劇體W7(P)";
+    font-size: 60px;
+    background-color: #99BEFF;
+    border: thick ridge #00264A;
+    letter-spacing: 15px;
+    text-align: center;
+}
