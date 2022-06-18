@@ -46,3 +46,38 @@ p {
   border-radius: 8px;
   cursor: pointer;
 }
+
+.display-3 {
+    background-color: #00FF57;
+    border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+    left: 19px;
+    top: 581px;
+}
+.display-4 {
+	background-color: #f7dc88;
+	border: thick solid #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+   
+}
+
+.display-5 {
+	background-color: #ecffad;
+	border: thick double #00034B;
+    position: absolute;
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 60px;
+    color: #001431;
+    text-align: center;
+	 left: 340px;
+    top: 282px;
+   
+}

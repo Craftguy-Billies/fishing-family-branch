@@ -15,6 +15,7 @@
     font-size: 60px;
     background-color: #00FF81;
     border: thick double #06002A;
+    position: static;
 }
 .display-4 {
     font-family: "華康平劇體W7(P)";
