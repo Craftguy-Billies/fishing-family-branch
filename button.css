@@ -24,3 +24,27 @@
     letter-spacing: 15px;
     text-align: center;
 }
+
+.display-5 {
+    font-family: "華康新綜藝體W9(P)";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+	
+}
+
+.display-6 {
+    font-family: luckiest-guy;
+    font-style: normal;
+    font-weight: 400;
+	
+}
+
+.display-7 {
+	font-family: "華康平劇體W7(P)";
+    font-size: 60px;
+    background-color: #ff96a8;
+    border: solid thick;
+    text-align: center;
+	
+}
